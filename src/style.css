@@ -4,10 +4,10 @@ body {
   padding: 0;
   box-sizing: border-box;
   height: 100vh;
+  display: flex;
 }
 
 .title {
-  display: flex;
   justify-content: space-between;
   align-items: center;
   border-bottom: 1px solid #eee;
